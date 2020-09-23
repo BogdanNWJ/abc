@@ -4,6 +4,7 @@
     background: rgb(0, 0, 255);
     animation: flipAround 6s infinite;
     transform-origin: right;
+    border-radius:70px;
 }
 @keyframes flipAround {
     10%{
