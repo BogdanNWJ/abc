@@ -11,7 +11,7 @@
 
 <div class="cont">
     <div class="head">
-    
+    <h1>tytuł</h1>
     </div>
     <div class="main">
         <div class="tab">
